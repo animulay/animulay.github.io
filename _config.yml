@@ -1,6 +1,8 @@
 
 # Build settings
 remote_theme: cotes2020/jekyll-theme-chirpy
+plugins:
+  - jekyll-remote-theme
 
 lang: en
 timezone: America/Los_Angeles
