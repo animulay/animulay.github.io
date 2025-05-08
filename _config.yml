@@ -2,10 +2,5 @@
 # remote_theme: cotes2020/jekyll-theme-chirpy
 # plugins:
 # - jekyll-remote-theme
-theme: minima
-  skin: dark
-  social_links:
-    - title: at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/animulay2020"
+remote_theme: "jekyll/minima@1e8a445"
 
