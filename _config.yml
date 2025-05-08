@@ -7,12 +7,4 @@ plugins:
 lang: en
 timezone: America/Los_Angeles
 
-social:
-  links:
-    https://x.com/animulay2020
-
 theme_mode: dark
-
-avatar: "/commons/avatar.jpg"
-
-paginate: 10
