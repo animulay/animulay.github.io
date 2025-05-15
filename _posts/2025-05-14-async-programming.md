@@ -12,7 +12,7 @@
 | Underlying Model | Awaitables continue the coroutine from the bottom up (the callee resumes the caller). | The runtime polls the future from the top down (the executor drives progress). |
 
 #### Note
-- C++20 officially added the [Coroutines](https://en.cppreference.com/w/cpp/language/coroutines) feature.
+- The [Coroutines](https://en.cppreference.com/w/cpp/language/coroutines) feature was officially added to C++20.
 
 #### References
 [^1]: sourced from [Perplexity](https://www.perplexity.ai)
