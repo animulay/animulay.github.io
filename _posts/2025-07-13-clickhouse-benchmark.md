@@ -18,7 +18,7 @@ The webpage is divided into 3 sections:
 2. A horizontal bar chart reporting the Relative times and
 3. The Detailed Comparison table
 
-After spending some time playing around, I realized that one can get lot more meaningful information from this website by <ins>deselecting</ins> the defaults and instead by choosing parameters that matter to you. e.g.<br>
+After spending some time playing around, I realized that one can get lot more _meaningful_ information from this website by <ins>deselecting</ins> the defaults and instead, by choosing parameters that matter to you. e.g.<br>
 
 Say, you want to do side-by-side comparison between ClickHouse and [TimescaleDB](https://www.tigerdata.com/) aka TigerData.
 
@@ -43,7 +43,7 @@ Notice that both the runs were done on the same Amazon EC2 instance type: [c6a.4
 ### Wish List
 
 1. It would be helpful to know the product versions that were used for benchmarking.<br>
-   Looks like as of today, the versions information is available only for [ClickHouse](https://benchmark.clickhouse.com/versions/) !<br>
+   Looks like as of today, the version information is available only for [ClickHouse](https://benchmark.clickhouse.com/versions/) !<br>
    - I believe, the existing ClickHouse users would want to know what changes - new features, bug-fixes are incorporated in a specific release.<br>This information is available from the main website, but a link to the Release Notes would make it easier to take a peek.
 
-2. An intelligent input selection available via drop down menu that filters out all the permutations that are not relevant.<br>This would save some time for the end-users, make it easy to grok the information and as a side benefit, would also free up some space in the top portion of the page.
+2. An intelligent input selection available via drop down menu that filters out all the permutations that are not relevant.<br>This would save some time for the end-users, make it easy to grok the information and as a side benefit, would also free up some space in the top portion of the website.
