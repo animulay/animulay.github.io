@@ -42,8 +42,9 @@ Notice that both the runs were done on the same Amazon EC2 instance type: [c6a.4
 
 ### Wish List
 
-1. It would be helpful to know the product versions that were used for benchmarking.<br>
+1. The benchmark site is kind of "hidden". Maybe, it should be listed in the drop down list from the Resources tab on the ClickHouse homepage.
+2. It would be helpful to know the product versions that were used for benchmarking.<br>
    Looks like as of today, the version information is available only for [ClickHouse](https://benchmark.clickhouse.com/versions/) !<br>
    - I believe, the existing ClickHouse users would want to know what changes - new features, bug-fixes are incorporated in a specific release.<br>This information is available from the main website, but a link to the Release Notes would make it easier to take a peek.
 
-2. An intelligent input selection available via drop down menu that filters out all the permutations that are not relevant.<br>This would save some time for the end-users, make it easy to grok the information and as a side benefit, would also free up some space in the top portion of the website.
+3. An intelligent input selection available via drop down menu that filters out all the permutations that are not relevant.<br>This would save some time for the end-users, make it easy to grok the information and as a side benefit, would also free up some space in the top portion of the website.
