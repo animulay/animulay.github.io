@@ -1,5 +1,5 @@
 
-I like watch presentations on YouTube, read articles & blog posts, checkout new software. Usually, these topics are not directly related to my day-to-day work.
+I like to watch presentations on YouTube, read articles & blog posts, checkout new software. Usually, these topics are not directly related to my day-to-day work.
 
 This is an attempt to record some of the interesting links on a monthly basis.
 
