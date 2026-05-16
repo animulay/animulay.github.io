@@ -3,7 +3,8 @@ I like to watch presentations on YouTube, read articles & blog posts, checkout n
 
 This is an attempt to record some of the interesting links on a monthly basis.
 
-## Title: My Tech Journal - April 2026 Edition
+## My Tech Journal - April 2026 Edition
+---
 
 ### GenAI
 - [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
