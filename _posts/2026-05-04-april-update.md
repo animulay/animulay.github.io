@@ -14,7 +14,9 @@ This is an attempt to record some of the interesting links on a monthly basis.
 
 
 ### C++
-- [[Howard Hinnant] Everything you ever wanted to know about Move Semantics](https://youtu.be/vLinb2fgkHk)
+- [[Howard Hinnant] Everything you ever wanted to know about Move Semantics](https://youtu.be/vLinb2fgkHk)<br><br>
+  Quick Reference chart<br><br>
+  ![Special Member Functions](/images/cpp-special-member-functions.png)
 - [Back to Basics: C++ Smart Pointers - David Olsen - CppCon 2022](https://www.youtube.com/watch?v=YokY6HzLkXs)
 - [Cache Me Maybe: The Performance Secret Every C++ Developer Needs - Michelle D'Souza - CppCon 2025](https://www.youtube.com/watch?v=VhKq0nzPTh0)
 
