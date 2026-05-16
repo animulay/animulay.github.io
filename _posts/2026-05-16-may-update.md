@@ -1,0 +1,16 @@
+
+## Title: My Tech Journal - May 2026 Edition
+---
+
+### C++
+- [Effective Ranges: A Tutorial for Using C++2x Ranges - Jeff Garland - CppCon 2023](https://youtu.be/QoaVRQvA6hI)<br>
+  • [C++20](https://en.cppreference.com/cpp/20) is the first official standard that introduced [ranges](https://en.cppreference.com/cpp/header/ranges).<br>
+  • Ranges are the largest revamp of the Standard Template Library (STL) in 20 years and impacts daily C++ programming dramatically.<br>
+  • This tutorial offers an excellent overview of ranges, views and spans.<br> 
+  • Ranges algorithms are not fully compatible with STL algorithms.<br>
+  • Views are ranges with **lazy** evaluation and lazy evaluation allows for composition of several processing steps. This allows us to write `functional style` code.<br>
+  • If you are on older releases of C++, say, [C++14](https://en.cppreference.com/cpp/14) or [C++17](https://en.cppreference.com/cpp/17), then Eric Niebler’s [range-v3](https://github.com/ericniebler/range-v3) library allows you to use ranges.<br>
+
+### Infrastructure
+- [Creating our Own Kubernetes & Docker to Run Our Data Infrastructure | [Modal](https://www.youtube.com/watch?v=3jJ1GhGkLY0)<br>
+  
