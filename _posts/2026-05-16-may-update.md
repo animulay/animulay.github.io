@@ -1,5 +1,5 @@
 
-## Title: My Tech Journal - May 2026 Edition
+## My Tech Journal - May 2026 Edition
 ---
 
 ### C++
