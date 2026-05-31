@@ -2,21 +2,21 @@ remote_theme: piharpi/jekyll-klise
 
 title: Aniruddha Mulay
 description: >-
-  Tech journal — notes on systems programming, databases, GPU, and distributed systems.
+  Tech journal - notes on Distributed Systems, Systems Programming, Databases, GPU ...
 lang: en-US
-timezone: America/New_York
+timezone: America/Los_Angeles
 mode: dark
 
 author:
   name: Aniruddha Mulay
   bio: >-
-    Software engineer interested in systems programming, databases, and distributed systems.
+    Software Engineer interested in systems programming, databases, and distributed systems.
   username: animulay
   github: animulay
-  twitter:
+  twitter: https://x.com/animulay2020
   facebook:
-  email: muldroid@gmail.com
-  avatar: https://github.com/animulay.png
+  email:
+  avatar:
 
 url: "https://animulay.github.io"
 baseurl: ""
