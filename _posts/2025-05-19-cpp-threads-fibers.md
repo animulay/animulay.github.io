@@ -1,3 +1,10 @@
+---
+title: "C++: Threads vs Fibers"
+date: 2025-05-19
+tags: [cpp, concurrency, threads, fibers]
+description: "Comparing preemptive threads and cooperative fibers in C++."
+---
+
 ## C++ comparing threads and fibers
 
 | **Aspect** | **Threads** | **Fibers** |

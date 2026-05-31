@@ -1,3 +1,9 @@
+---
+title: "RoaringBitmap in PostgreSQL"
+date: 2025-08-06
+tags: [database, postgresql, bitmaps]
+description: "How RoaringBitmap compressed bitmap data structures were used to solve a practical problem in PostgreSQL."
+---
 
 RoaringBitmap is a memory efficient, high performance compressed bitmap data structure. It is widely used in numerous big data and analytics softwares.
 

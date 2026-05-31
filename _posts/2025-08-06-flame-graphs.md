@@ -1,3 +1,9 @@
+---
+title: "Visualizing Performance with Flame Graphs"
+date: 2025-08-06
+tags: [performance, profiling, flamegraphs]
+description: "Notes from Brendan Gregg's talk on flame graphs for visualizing performance."
+---
 
 **Today I watched ...**
 

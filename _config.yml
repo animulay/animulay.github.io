@@ -1,6 +1,62 @@
-# Build settings
-# remote_theme: cotes2020/jekyll-theme-chirpy
-# plugins:
-# - jekyll-remote-theme
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: piharpi/jekyll-klise
 
+title: Aniruddha Mulay
+description: >-
+  Tech journal — notes on systems programming, databases, GPU, and distributed systems.
+lang: en-US
+timezone: America/New_York
+mode: dark
+
+author:
+  name: Aniruddha Mulay
+  bio: >-
+    Software engineer interested in systems programming, databases, and distributed systems.
+  username: animulay
+  github: animulay
+  twitter:
+  facebook:
+  email: muldroid@gmail.com
+  avatar: https://github.com/animulay.png
+
+url: "https://animulay.github.io"
+baseurl: ""
+permalink: /:title/
+google_analytics:
+fb_appid:
+
+collections:
+  posts:
+    output: true
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+number_of_posts: 5
+
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - node_modules
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap

@@ -1,3 +1,9 @@
+---
+title: "Coroutines and Futures in C++"
+date: 2025-05-19
+tags: [cpp, async, coroutines, futures]
+description: "Understanding the relationship between coroutines and futures in C++."
+---
 
 ## Understanding the relationship between Coroutines and Futures in C++
 
