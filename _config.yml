@@ -39,6 +39,11 @@ defaults:
     values:
       layout: post
       comments: false
+nav:
+  - title: About
+    url: /about
+  - title: Tags
+    url: /tags
 
 number_of_posts: 10
 
