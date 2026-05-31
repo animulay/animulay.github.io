@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["jekyll-klise"]
+    branches: ["jekyll-klise", "main"]
 
 permissions:
   contents: read
