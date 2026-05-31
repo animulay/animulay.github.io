@@ -1,3 +1,9 @@
+---
+title: "Comparing Coroutines in C++ and Rust"
+date: 2025-05-14
+tags: [cpp, rust, async, coroutines]
+description: "A side-by-side comparison of coroutine models in C++ and Rust."
+---
 
 **Comparing Coroutines in C++ and Rust** [^1]
 

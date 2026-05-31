@@ -1,3 +1,9 @@
+---
+title: "GPU Networking Basics"
+date: 2025-09-10
+tags: [gpu, networking, hardware]
+description: "A summary of Austin Lyons's series on GPU networking fundamentals."
+---
 
 Yesterday, I came across this nice series of articles about **GPU Networking**, by [Austin Lyons](https://substack.com/@chipstrat).<br>
 

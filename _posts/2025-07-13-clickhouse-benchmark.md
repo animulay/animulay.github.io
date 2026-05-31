@@ -1,3 +1,10 @@
+---
+title: "ClickBench: ClickHouse Benchmark Observations"
+date: 2025-07-13
+tags: [database, clickhouse, benchmark]
+description: "Observations from the ClickBench analytical database benchmark site."
+---
+
 # ClickBench: The ClickHouse Benchmark site - Some Observations
 
 Some time ago, I learnt about [ClickBench](https://benchmark.clickhouse.com). Although, the title says "a Benchmark For **Analytical** DBMS", it also includes data for traditional RDBMS systems like [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org/) etc.<br>
