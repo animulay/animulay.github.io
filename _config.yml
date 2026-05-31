@@ -19,7 +19,7 @@ author:
   avatar:
 
 url: "https://animulay.github.io"
-baseurl: "https://github.com/animulay"
+baseurl: ""
 permalink: /:title/
 google_analytics:
 fb_appid:
