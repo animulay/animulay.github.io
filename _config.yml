@@ -10,7 +10,7 @@ mode: dark
 author:
   name: Aniruddha Mulay
   bio: >-
-    Software Engineer interested in systems programming, databases, and distributed systems.
+    Software Engineer interested in Distributed Systems, Scalability, Observability (o11y).
   username: animulay
   github: animulay
   twitter: https://x.com/animulay2020
@@ -19,7 +19,7 @@ author:
   avatar:
 
 url: "https://animulay.github.io"
-baseurl: ""
+baseurl: "https://github.com/animulay"
 permalink: /:title/
 google_analytics:
 fb_appid:
@@ -40,7 +40,7 @@ defaults:
       layout: post
       comments: false
 
-number_of_posts: 5
+number_of_posts: 10
 
 sass:
   style: compressed
