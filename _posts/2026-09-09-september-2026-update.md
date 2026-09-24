@@ -16,4 +16,10 @@ description: "Monthly collection of interesting tech talks, articles, and softwa
 ### Rust
 - [Apache Iggy's migration journey to thread-per-core architecture powered by io_uring](https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/) Feb 27, 2026<br>
   by Grzegorz Koszyk<br>
+
   
+### Interesting Projects, Code Repositories
+- [RustFS is an open-source, S3-compatible high-performance object storage](https://github.com/rustfs/rustfs)
+
+### Interesting Tools
+- [Continuous profiling of cpu, memory usage](https://github.com/parca-dev/parca)
