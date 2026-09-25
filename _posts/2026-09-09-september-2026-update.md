@@ -1,7 +1,7 @@
 ---
 title: "My Tech Journal - September 2026"
 date: 2026-09-09
-tags: [ai,journal,monthly-update,rust]
+tags: [ai,c++,cpp,journal,monthly-update,rust]
 description: "Monthly collection of interesting tech talks, articles, and software from September 2026."
 ---
 
@@ -12,6 +12,11 @@ description: "Monthly collection of interesting tech talks, articles, and softwa
 - [CMU AI Agents 2026: 1. What are Agents and How Do They Work?](https://youtu.be/UwfjzyLnvMg?list=PLSN0qpDfUvTM) Sep 8, 2026<br>
   This lecture (by Daniel Fried and [Graham Neubig](https://www.youtube.com/@neubig)) for CMU CS 11-768, AI Agents (Fall 2026) covers the basics of AI Agents and sets the stage for future lectures.<br>
   [Class Site](https://cmu-agents.com)<br>
+- [Ray Summit 2026 - vLLM Sessions](https://www.youtube.com/playlist?list=PLXMguE8Nc9o4)<br>
+
+### C++
+- [Eliminating branches in C++ loops](https://www.yagiz.co/eliminating-branches-in-cpp-loops)<br>
+  Yagiz Nizipli, software performance expert takes a step-by-step approach to illustrate various techniques for writing high performance code.
 
 ### Rust
 - [Apache Iggy's migration journey to thread-per-core architecture powered by io_uring](https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/) Feb 27, 2026<br>
