@@ -31,3 +31,7 @@ description: "Monthly collection of interesting tech talks, articles, and softwa
   - In this presentation, Nihal gives us an overview of the code repo and explains the working of #[kernel] annotation with the [vecadd](https://github.com/NVIDIA/cuda-rust/blob/main/cuda-oxide/crates/rustc-codegen-cuda/examples/vecadd/src/main.rs) example.<br>
   - To implement GPU kernel in Rust, the code that runs on the GPU (i.e. the device side of the code) is annotated with #[kernel] and the rustc codegen backend transforms that code into CUDA PTX.<br>
   - Reference: [The cuda-oxide Book](https://nvidia.github.io/cuda-rust/cuda-oxide/)
+
+
+### Interesting Projects, Code Repositories
+- [doxxnet](https://github.com/doxx/doxx.net) an Agentic Defined Network (ADN)
