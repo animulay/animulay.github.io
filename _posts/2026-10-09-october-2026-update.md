@@ -8,6 +8,10 @@ description: "Monthly collection of interesting tech talks, articles, and softwa
 ## My Tech Journal - October 2026 Edition
 ---
 
+### AI
+- [Quantization from the ground up](https://ngrok.com/blog/quantization) Sam Rose, Updated Sep 28, 2026
+
+  
 ### Net
 - [Netdev 0x13 - QUIC Tutorial](https://www.youtube.com/watch?v=CtsBawwGwns) May 20, 2019<br>
   QUIC guru [Jana Iyengar](https://github.com/janaiyengar) gave a tutorial at netdev 0x13<br>
