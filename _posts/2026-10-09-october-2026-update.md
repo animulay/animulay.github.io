@@ -40,3 +40,4 @@ description: "Monthly collection of interesting tech talks, articles, and softwa
 ### Interesting Projects, Code Repositories
 - [doxxnet](https://github.com/doxx/doxx.net) an Agentic Defined Network (ADN)
 - [BeautifulRust](https://github.com/morganlinton/BeautifulRust) Agent Skills that teach coding agents to write, review, and port idiomatic Rust
+- [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
