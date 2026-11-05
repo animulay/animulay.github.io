@@ -9,7 +9,7 @@ description: "Monthly collection of interesting tech talks, articles, and softwa
 ---
 
 ### Rust
-- [Completion-based IO](https://www.youtube.com/watch?v=CmLAHUuUsAQ) ([Alice Ryhl](https://ryhl.io/) at RustWeek)<br>
+- [Completion-based IO](https://www.youtube.com/watch?v=CmLAHUuUsAQ) ([Alice Ryhl](https://ryhl.io/) at RustWeek) RustNL<br>
   In this presentation, Alice provides an overview of the two different approaches to async IO<br>
   • For many years, the most widely used IO APIs on Linux were based on the **readiness** model. e.g. [select](https://www.man7.org/linux/man-pages/man2/select.2.html), [poll](https://man7.org/linux/man-pages/man2/poll.2.html), [epoll](https://man7.org/linux/man-pages/man7/epoll.7.html)<br>
   • In 2019, [io_uring](https://unixism.net/loti/what_is_io_uring.html) - **completion** based APIs were added to Linux.<br>
