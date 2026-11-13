@@ -15,7 +15,7 @@ description: "Monthly collection of interesting tech talks, articles, and softwa
   1. Time-to-First-Token (TTFT) i.e. how long user waits before any generation happens?<br>
   2. Latency (seconds/token)    how fast tokens appear for one query (interactive)<br>
   3. Throughput (tokens/second) how fast tokens appear for many queries? (batch)<br>
-- Two stages of inference:<br>
+- Two stages of inference:<br><br>
   | 1. Prefill | 2. Generation |
   | ------- | ---------- |
   |Given a prompt, encode into vectors. | Generate new response token(s). |
