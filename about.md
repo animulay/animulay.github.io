@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Software Engineer interested in Distributed Systems, Scalability, Observability (o11y).
+Software Engineer
+Distributed Systems | Scalability | Observability (O11y) | Data Storage | Enterprise Security | ML Inference | Linux | eBPF | C, C++, Go, Python, Rust
 
-This site is my tech journal — a place to record interesting talks, articles, and software I come across. Topics are usually not directly related to day-to-day work; just things I find intellectually interesting.
+Welcome to my tech journal. In general, the topics are not directly related to my day-to-day work; but just some things that I found interesting.
 
 ## Contact
 
 - GitHub: [animulay](https://github.com/animulay)
-- Email: {{ site.author.email }}
+
