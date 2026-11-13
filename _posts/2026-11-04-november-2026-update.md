@@ -1,12 +1,35 @@
 ---
 title: "My Tech Journal - November 2026"
 date: 2026-11-04
-tags: [journal, monthly-update, Rust]
+tags: [inference, journal, monthly-update, Rust]
 description: "Monthly collection of interesting tech talks, articles, and software from November 2026."
 ---
 
 ## My Tech Journal - November 2026 Edition
 ---
+
+### Inference
+- [Stanford CS336](https://cs336.stanford.edu/) Language Modeling from Scratch | Spring 2026 | [Lecture 10: Inference](https://www.youtube.com/watch?v=EfM546A79aM), Prof. Percy Liang<br>
+- Training has one-time cost, whereas inference shows up in many places - actual use, model evaluation, reinforcement learning (RL).<br>
+- What does fast inference mean? (evaluation metrics)<br>
+  1. Time-to-First-Token (TTFT) i.e. how long user waits before any generation happens?<br>
+  2. Latency (seconds/token)    how fast tokens appear for one query (interactive)<br>
+  3. Throughput (tokens/second) how fast tokens appear for many queries? (batch)<br>
+- Two stages of inference:<br>
+  | 1. Prefill | 2. Generation |
+  | ------- | ---------- |
+  |Given a prompt, encode into vectors. | Generate new response token(s). |
+  | This phase is parallelisable like training. | Essentially a sequential operation. |
+  |**Compute**-bound | **Memory**-bound |
+- [Arithmetic intensity analysis](https://youtu.be/EfM546A79aM?t=870)<br>
+- Since inference is memory-bound, reducing the KV Cache memory usage leads to speed up.<br>
+  Common techniques for improving inference performance:<br>
+  1. Quantization<br>
+  2. Model pruning (removing unimportant hidden layers without sacrificing the model accuracy)<br>
+  3. Speculative Decoding (using a smaller model to generate tokens that are fed to the larger model for evaluation)<br>
+- References:<br>
+  • [How to Parallelize a Transformer for Training](https://jax-ml.github.io/scaling-book/training/)<br>
+  • [All About Transformer Inference](https://jax-ml.github.io/scaling-book/inference/)<br>
 
 ### Rust
 - [Completion-based IO](https://www.youtube.com/watch?v=CmLAHUuUsAQ) ([Alice Ryhl](https://ryhl.io/) at RustWeek) RustNL<br>
