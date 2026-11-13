@@ -17,10 +17,11 @@ description: "Monthly collection of interesting tech talks, articles, and softwa
   3. Throughput (tokens/second) how fast tokens appear for many queries? (batch)<br>
 - Two stages of inference:<br><br>
   | 1. Prefill | 2. Generation |
-  | ------- | ---------- |
-  |Given a prompt, encode into vectors. | Generate new response token(s). |
+  |:----------:|:-------------:|
+  | Given a prompt, encode into vectors. | Generate new response token(s). |
   | This phase is parallelisable like training. | Essentially a sequential operation. |
-  |**Compute**-bound | **Memory**-bound |
+  | **Compute**-bound | **Memory**-bound |
+  <br>
 - [Arithmetic intensity analysis](https://youtu.be/EfM546A79aM?t=870)<br>
 - Since inference is memory-bound, reducing the KV Cache memory usage leads to speed up.<br>
   Common techniques for improving inference performance:<br>
